@@ -1,5 +1,5 @@
-#### EXERCISE 1
+## EXERCISE 1
 
-<br>
+<hr>
 
-<p> This is a simulation to understand correct branch creation and PR flow. Everything in this folder is for this very purpose</p>
+<p> This is an exercise to practice correct branch creation and PR flow. Everything in this folder is for this very purpose</p>
